@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Em busca da primeira oportunidade no mundo Dev
+Tenho um canal no Youtube onde desenvolvo aplicativos Android utilizando a plataforma no-code Kodular e o backend utilizando Firebase, aproveitando a visibilidade do canal comecei a disponibilizar serviço de acessoria e aulas particulares das plataformas citadas.
+E no momento 
 <!--
 **edmilson-torres/edmilson-torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
