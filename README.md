@@ -1,6 +1,6 @@
 **Estudante de Gestão da Tecnologia da Informação em busca da primeira oportunidade no mundo Dev.**
 
-Criei um [canal no Youtube](https://www.youtube.com/c/simplekod) onde desenvolvo aplicativos Android utilizando a plataforma no-code Kodular e o backend utilizando Firebase, aproveitando a visibilidade do canal comecei a disponibilizar serviço de acessória e aulas particulares das plataformas citadas.
+Tenho um [canal no Youtube (SimpleKod)](https://www.youtube.com/c/simplekod) onde compartilho um pouco de conhecimento no desenvolvimento de aplicativos Android utilizando a plataforma no-code Kodular e o backend utilizando Firebase.
 
 <a href="https://www.linkedin.com/in/edmilson-torres"><img src="https://img.shields.io/badge/-Edmilson Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:edmilson.torres@gmail.com"><img src="https://img.shields.io/badge/-edmilson.torres@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
