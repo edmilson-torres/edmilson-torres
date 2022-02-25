@@ -1,6 +1,6 @@
 **Estudante de Gestão da Tecnologia da Informação em busca da primeira oportunidade no mundo Dev.**
 
-Criei um [canal no Youtube](https://www.youtube.com/c/simplekod) onde desenvolvo aplicativos Android utilizando a plataforma no-code Kodular e o backend utilizando Firebase, aproveitando a visibilidade do canal comecei a disponibilizar serviço de acessoria e aulas particulares das plataformas citadas.
+Criei um [canal no Youtube](https://www.youtube.com/c/simplekod) onde desenvolvo aplicativos Android utilizando a plataforma no-code Kodular e o backend utilizando Firebase, aproveitando a visibilidade do canal comecei a disponibilizar serviço de acessória e aulas particulares das plataformas citadas.
 
 Possuo conhecimento base de programação como lógica, algoritmo, POO e estrutura de dados.  
 Inglês básico (me saio bem lendo documentação)  
