@@ -2,6 +2,10 @@
 
 Criei um [canal no Youtube](https://www.youtube.com/c/simplekod) onde desenvolvo aplicativos Android utilizando a plataforma no-code Kodular e o backend utilizando Firebase, aproveitando a visibilidade do canal comecei a disponibilizar serviço de acessória e aulas particulares das plataformas citadas.
 
+<a href="https://www.youtube.com/c/simplekod"><img src="https://img.shields.io/badge/-SimpleKod-D62422?style=flat-square&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/edmilson-torres"><img src="https://img.shields.io/badge/-Edmilson Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:edmilson.torres@gmail.com"><img src="https://img.shields.io/badge/-edmilson.torres@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 Possuo conhecimento base de programação como lógica, algoritmo, POO e estrutura de dados.  
 Inglês básico (me saio bem lendo documentação)  
 
