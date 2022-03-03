@@ -38,6 +38,6 @@ Inglês básico (me saio bem lendo documentação)
 <a href="#"><img height= "30" alt="Linux" src= "https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white"></a>
   
 ## 📖 &nbsp; Desejo estudar:
-NextJS, NestJS, API GraphQL, TDD, AWS, Websocket, Clean Architecture, SOLID, Design patterns e Ferramentas DevOps CI/CD
+NextJS, NestJS, API GraphQL, TDD, AWS, websocket, clean architecture, SOLID, design patterns e ferramentas DevOps CI/CD
 
 > _Truth can only be found in one place: the code._ – Robert C. Martin
