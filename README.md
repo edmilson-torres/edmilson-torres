@@ -16,7 +16,7 @@ Tenho um [canal no Youtube (SimpleKod)](https://www.youtube.com/c/simplekod) ond
 Possuo conhecimento base de programação como lógica, algoritmo, POO e estrutura de dados.  
 Inglês básico (me saio bem lendo documentação)  
 
-## :books: &nbsp; Estudei/estudando continuamente:
+## :books: &nbsp; Estudei (nível básico)/estudando continuamente:
 <a href="#"><img height= "30" alt="HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <a href="#"><img height= "30" alt="CSS3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <a href="#"><img height= "30" alt="Javascript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
