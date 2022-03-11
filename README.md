@@ -1,6 +1,6 @@
 # &nbsp; Developer Web
 
-:man_student: **Cursando Gestão da Tecnologia da Informação em busca da primeira oportunidade no mundo Dev.**
+:man_student: **Cursando Gestão da Tecnologia da Informação em busca da primeira oportunidade (estágio de desenvolvimento web stack javascript) no mundo Dev.**
 
 1998 - Criação de sites usando Bloco de notas  
 1999 - Grande avanço :sweat_smile: usando Macromedia Dreamweaver, Xara Web Style e Paint Shop Pro - [Quake 2000](https://web.archive.org/web/20010216054338/http://www.quake2000.hpg.com.br:80/)  
