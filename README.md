@@ -41,3 +41,5 @@ Inglês básico (me saio bem lendo documentação)
 NextJS, NestJS, API GraphQL, TDD, AWS, websocket, clean architecture, SOLID, design patterns e ferramentas DevOps CI/CD
 
 > _Truth can only be found in one place: the code._ – Robert C. Martin
+  
+ <img src="https://komarev.com/ghpvc/?username=edmilson-torres&label=Profile%20views&color=0e75b6&style=flat" alt="edmilson-torres" />
