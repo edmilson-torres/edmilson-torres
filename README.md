@@ -43,4 +43,4 @@ NextJS, NestJS, API GraphQL, TDD, AWS, websocket, clean architecture, SOLID, des
 > _Truth can only be found in one place: the code._ – Robert C. Martin
   
 
-  <img style="display: none" height= "30" alt="Linux" src= "https://komarev.com/ghpvc/?username=edmilson-torres&style=flat">
+<a style="display: none" href="#" hidden><img style="display: none" height= "30" alt="Linux" src= "https://komarev.com/ghpvc/?username=edmilson-torres&style=flat" hidden></a>
