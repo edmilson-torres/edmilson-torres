@@ -1,6 +1,4 @@
-# &nbsp; Developer Web
-
-:man_student: **Cursando Gestão da Tecnologia da Informação em busca da primeira oportunidade (estágio de desenvolvimento web stack javascript) no mundo Dev.**
+### :man_student:  &nbsp; **Cursando Gestão da Tecnologia da Informação**
 
 1998 - Criação de sites usando Bloco de notas  
 1999 - Grande avanço :sweat_smile: usando Macromedia Dreamweaver, Xara Web Style e Paint Shop Pro - [Quake 2000](https://web.archive.org/web/20010216054338/http://www.quake2000.hpg.com.br:80/)  
@@ -9,14 +7,10 @@
 
 Tenho um [canal no Youtube (SimpleKod)](https://www.youtube.com/c/simplekod) onde compartilho um pouco de conhecimento no desenvolvimento de aplicativos Android utilizando a plataforma no-code Kodular e o backend utilizando Firebase.
 
-<a href="https://www.linkedin.com/in/edmilson-torres"><img src="https://img.shields.io/badge/-Edmilson Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:edmilson.torres@gmail.com"><img src="https://img.shields.io/badge/-edmilson.torres@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/simplekod"><img src="https://img.shields.io/badge/-SimpleKod-D62422?style=flat-square&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-
 Possuo conhecimento base de programação como lógica, algoritmo, POO e estrutura de dados.  
 Inglês básico (me saio bem lendo documentação)  
 
-## :books: &nbsp; Estudei (nível básico)/estudando continuamente:
+### :books: &nbsp; Estudei/estudando continuamente:
 <a href="#"><img height= "30" alt="HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <a href="#"><img height= "30" alt="CSS3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <a href="#"><img height= "30" alt="Javascript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
@@ -37,8 +31,13 @@ Inglês básico (me saio bem lendo documentação)
 <a href="#"><img height= "30" alt="Scrum" src= "https://img.shields.io/badge/Scrum-34B233?style=for-the-badge&logo=Scrum%20Alliance&logoColor=white"></a>
 <a href="#"><img height= "30" alt="Linux" src= "https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white"></a>
   
-## 📖 &nbsp; Desejo estudar:
-NextJS, NestJS, API GraphQL, TDD, AWS, websocket, clean architecture, SOLID, design patterns e ferramentas DevOps CI/CD
+### 📖 &nbsp; Desejo estudar:
+NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design patterns, AWS, ferramentas DevOps CI/CD, microserviços e serverless.
+  
+### 📫 &nbsp; Contato  
+<a href="https://www.linkedin.com/in/edmilson-torres"><img alt="linkedin edmilson-torres" src="https://img.shields.io/badge/-Edmilson Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:edmilson.torres@gmail.com"><img alt="email edmilson.torres@gmail.com" src="https://img.shields.io/badge/-edmilson.torres@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/simplekod"><img alt="canal simplekod" src="https://img.shields.io/badge/-SimpleKod-D62422?style=flat-square&labelColor=D62422&logo=youtube&logoColor=white"/></a>
 
 > _Truth can only be found in one place: the code._ – Robert C. Martin
   
