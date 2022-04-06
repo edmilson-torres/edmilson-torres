@@ -3,7 +3,7 @@
 1998 - Criação de sites usando Bloco de notas  
 1999 - Grande avanço :sweat_smile: usando Macromedia Dreamweaver, Xara Web Style e Paint Shop Pro - [Quake 2000](https://web.archive.org/web/20010216054338/http://www.quake2000.hpg.com.br:80/)  
 2000 - Faculdade em outra área, mas sempre flertando com TI  
-2022 - O que era um flearte agora vai dar casamento :pray:
+2022 - O que era um flerte agora vai dar casamento :pray:
 
 Tenho um [canal no Youtube (SimpleKod)](https://www.youtube.com/c/simplekod) onde compartilho um pouco de conhecimento no desenvolvimento de aplicativos Android utilizando a plataforma no-code Kodular e o backend utilizando Firebase.
 
