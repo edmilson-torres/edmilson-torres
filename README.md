@@ -40,4 +40,7 @@ NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design p
 <a href="https://www.youtube.com/c/simplekod"><img alt="canal simplekod" src="https://img.shields.io/badge/-SimpleKod-D62422?style=flat-square&labelColor=D62422&logo=youtube&logoColor=white"/></a>
 
 > _Truth can only be found in one place: the code._ – Robert C. Martin
- 
+<details>
+<summary>  </summary>
+<img src= "https://komarev.com/ghpvc/?username=edmilson-torres&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22edmilson-torres">
+</details>
