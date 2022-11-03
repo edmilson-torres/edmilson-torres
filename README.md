@@ -10,6 +10,26 @@
 ### 🪪 Abstract
 I'm currently working at Mundiale
 
+### 📚 Projects & Guides 📚
+SimpleQuiz: Node.js, typescript, MongoDB, JWT, Swagger, Nodemailer and Jest.
+https://github.com/edmilson-torres/simplequiz-api
+Chat real-time: Node.js, express and Socket.io
+https://github.com/edmilson-torres/nodejs-socketio
+RabbitMQ: Node.js, Typescript and RabbitMQ. Messages using topic exchange.
+https://github.com/edmilson-torres/nodejs-rabbitmq
+CRUD using NestJS, GraphQL and PostegreSQL
+https://github.com/edmilson-torres/nestjs-graphql-postgres
+URL shorten: Node.js, express, Typescript, MongoDB, swagger and Jest.
+https://github.com/edmilson-torres/url-shortener-dio
+Admin Template: Next.js using Typescript, Tailwind CSS and Firebase Auth.
+Github api interface: React.js and axios
+https://github.com/edmilson-torres/github-api-interface
+Sign In form: Project made to study the use of Tailwind CSS for layout and MUI for components.
+Used Formik to assemble the form and Yup to validate using schema.
+https://github.com/edmilson-torres/react-form-mui-tailwind
+Photos Gallery: Project made to study Firebase integration using ReactJS with Typescript
+https://github.com/edmilson-torres/gallery-react-firebase
+
 ### 🌱 Languages and Tools
 <p align="center"><a href="#">
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
@@ -34,10 +54,10 @@ I'm currently working at Mundiale
 </a>
 </p>
   
-### 📖 Learning more about and studying: 
+### 📝 Learning more about and studying: 
 NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design patterns, AWS, DevOps and CI/CD tools, microservices and serverless.
   
-### 📫 Contact  
+### 📫 Connect with Me 
 <a href="https://www.linkedin.com/in/edmilson-torres"><img alt="linkedin edmilson-torres" src="https://img.shields.io/badge/-Edmilson Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:edmilson.torres@gmail.com"><img alt="email edmilson.torres@gmail.com" src="https://img.shields.io/badge/-edmilson.torres@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/simplekod"><img alt="canal simplekod" src="https://img.shields.io/badge/-SimpleKod-D62422?style=flat-square&labelColor=D62422&logo=youtube&logoColor=white"/></a>
