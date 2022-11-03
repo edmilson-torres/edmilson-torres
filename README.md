@@ -35,14 +35,14 @@ I'm currently working at Mundiale
 </p>
   
 ### 📖 Learning more about and studying: 
-NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design patterns, AWS, ferramentas DevOps CI/CD, microserviços e serverless.
+NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design patterns, AWS, DevOps and CI/CD tools, microservices and serverless.
   
 ### 📫 Contact  
 <a href="https://www.linkedin.com/in/edmilson-torres"><img alt="linkedin edmilson-torres" src="https://img.shields.io/badge/-Edmilson Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:edmilson.torres@gmail.com"><img alt="email edmilson.torres@gmail.com" src="https://img.shields.io/badge/-edmilson.torres@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/simplekod"><img alt="canal simplekod" src="https://img.shields.io/badge/-SimpleKod-D62422?style=flat-square&labelColor=D62422&logo=youtube&logoColor=white"/></a>
 
-Tenho um [canal no Youtube (SimpleKod)](https://www.youtube.com/c/simplekod) onde compartilho um pouco de conhecimento no desenvolvimento de aplicativos Android utilizando a plataforma no-code Kodular e o backend utilizando Firebase.
+I have a [YouTube channel (SimpleKod)](https://www.youtube.com/c/simplekod) where I share a little knowledge on Android application development using the no-code Kodular platform and the backend using Firebase.
 
 > _Truth can only be found in one place: the code._ – Robert C. Martin
 <img src= "https://komarev.com/ghpvc/?username=edmilson-torres&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22edmilson-torres">
