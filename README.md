@@ -11,25 +11,22 @@ Possuo conhecimento base de programação como lógica, algoritmo, POO e estrutu
 Inglês básico (me saio bem lendo documentação)  
 
 ### :books: &nbsp; Estudei/estudando continuamente:
-<a href="#"><img height= "30" alt="HTML5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<a href="#"><img height= "30" alt="CSS3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<a href="#"><img height= "30" alt="Javascript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-<a href="#"><img height= "30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="#"><img height= "30" alt="ReactJS" src= "https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="#"><img height= "30" alt="React Native" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="#"><img height= "30" alt="styled-components" src= "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
-<a href="#"><img height= "30" alt="Git" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="#"><img height= "30" alt="Github" src= "https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img height= "30" alt="Node.js" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<a href="#"><img height= "30" alt="NPM" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href="#"><img height= "30" alt="MySQL" src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#"><img height= "30" alt="PostgreSQL" src= "https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href="#"><img height= "30" alt="MongoDB" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="#"><img height= "30" alt="VS Code" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="#"><img height= "30" alt="json" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
-<a href="#"><img height= "30" alt="Docker" src= "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="#"><img height= "30" alt="Scrum" src= "https://img.shields.io/badge/Scrum-34B233?style=for-the-badge&logo=Scrum%20Alliance&logoColor=white"></a>
-<a href="#"><img height= "30" alt="Linux" src= "https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white"></a>
+<p align="center">
+<img alt="HTML5" src= "https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5">
+<img alt="CSS3" src= "https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
+<img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
+<img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
+<img alt="React-native" src="https://img.shields.io/badge/react_native-%230d1117.svg?style=for-the-badge&logo=react"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%230d1117?style=for-the-badge&logo=git"/>
+<img alt="Node.js" src="https://img.shields.io/badge/node_js-%230d1117?style=for-the-badge&logo=nodedotjs"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230d1117?style=for-the-badge&logo=mysql"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%230d1117?style=for-the-badge&logo=postgresql"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%230d1117?style=for-the-badge&logo=mongodb"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-%230d1117?style=for-the-badge&logo=Docker"/>
+<img alt="Scrum" src="https://img.shields.io/badge/scrum-%230d1117?style=for-the-badge&logo=Scrum%20Alliance"/>
+</p>
   
 ### 📖 &nbsp; Desejo estudar:
 NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design patterns, AWS, ferramentas DevOps CI/CD, microserviços e serverless.
