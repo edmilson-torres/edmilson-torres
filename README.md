@@ -12,20 +12,20 @@ Inglês básico (me saio bem lendo documentação)
 
 ### :books: &nbsp; Estudei/estudando continuamente:
 <p align="center">
-<img alt="HTML5" src= "https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5">
-<img alt="CSS3" src= "https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
-<img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
-<img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
-<img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
-<img alt="React-native" src="https://img.shields.io/badge/react_native-%230d1117.svg?style=for-the-badge&logo=react"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
-<img alt="Git" src="https://img.shields.io/badge/git-%230d1117?style=for-the-badge&logo=git"/>
-<img alt="Node.js" src="https://img.shields.io/badge/node_js-%230d1117?style=for-the-badge&logo=nodedotjs"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230d1117?style=for-the-badge&logo=mysql"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%230d1117?style=for-the-badge&logo=postgresql"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%230d1117?style=for-the-badge&logo=mongodb"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-%230d1117?style=for-the-badge&logo=Docker"/>
-<img alt="Scrum" src="https://img.shields.io/badge/scrum-%230d1117?style=for-the-badge&logo=Scrum%20Alliance"/>
+<img alt="HTML5" src= "https://img.shields.io/badge/html5-20232A.svg?style=for-the-badge&logo=html5">
+<img alt="CSS3" src= "https://img.shields.io/badge/css3-20232A.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img alt="Javascript" src="https://img.shields.io/badge/javascript-20232A.svg?style=for-the-badge&logo=javascript"/>
+<img alt="Typescript" src="https://img.shields.io/badge/typescript-20232A.svg?style=for-the-badge&logo=typescript"/>
+<img alt="React" src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react"/>
+<img alt="React-native" src="https://img.shields.io/badge/react_native-20232A.svg?style=for-the-badge&logo=react"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss"/>
+<img alt="Git" src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git"/>
+<img alt="Node.js" src="https://img.shields.io/badge/node_js-20232A?style=for-the-badge&logo=nodedotjs"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=Docker"/>
+<img alt="Scrum" src="https://img.shields.io/badge/scrum-20232A?style=for-the-badge&logo=Scrum%20Alliance"/>
 </p>
   
 ### 📖 &nbsp; Desejo estudar:
