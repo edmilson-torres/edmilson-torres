@@ -5,8 +5,12 @@
 <img align="center" width="350" src="https://user-images.githubusercontent.com/64763336/199843667-2f27a6f4-72b2-470c-9473-79946475b70f.png" />
   </a>
 </p>
+    
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### 🪪 Abstract
+I'm currently working at Mundiale
 
-### :books: &nbsp; Languages and Tools
+### 🌱 Languages and Tools
 <p align="center"><a href="#">
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
@@ -30,10 +34,10 @@
 </a>
 </p>
   
-### 📖 &nbsp; Learning more about and studying: 
+### 📖 Learning more about and studying: 
 NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design patterns, AWS, ferramentas DevOps CI/CD, microserviços e serverless.
   
-### 📫 &nbsp; Contact  
+### 📫 Contact  
 <a href="https://www.linkedin.com/in/edmilson-torres"><img alt="linkedin edmilson-torres" src="https://img.shields.io/badge/-Edmilson Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:edmilson.torres@gmail.com"><img alt="email edmilson.torres@gmail.com" src="https://img.shields.io/badge/-edmilson.torres@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/simplekod"><img alt="canal simplekod" src="https://img.shields.io/badge/-SimpleKod-D62422?style=flat-square&labelColor=D62422&logo=youtube&logoColor=white"/></a>
