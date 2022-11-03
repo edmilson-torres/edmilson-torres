@@ -8,30 +8,22 @@
     
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ### 🪪 Abstract
-I'm currently working at Mundiale
+I'm currently Back-end at Mundiale
 
 ### 📚 Projects & Guides 📚
-SimpleQuiz: Node.js, typescript, MongoDB, JWT, Swagger, Nodemailer and Jest.
-https://github.com/edmilson-torres/simplequiz-api
-Chat real-time: Node.js, express and Socket.io
-https://github.com/edmilson-torres/nodejs-socketio
-RabbitMQ: Node.js, Typescript and RabbitMQ. Messages using topic exchange.
-https://github.com/edmilson-torres/nodejs-rabbitmq
-CRUD using NestJS, GraphQL and PostegreSQL
-https://github.com/edmilson-torres/nestjs-graphql-postgres
-URL shorten: Node.js, express, Typescript, MongoDB, swagger and Jest.
-https://github.com/edmilson-torres/url-shortener-dio
-Admin Template: Next.js using Typescript, Tailwind CSS and Firebase Auth.
-Github api interface: React.js and axios
-https://github.com/edmilson-torres/github-api-interface
-Sign In form: Project made to study the use of Tailwind CSS for layout and MUI for components.
-Used Formik to assemble the form and Yup to validate using schema.
-https://github.com/edmilson-torres/react-form-mui-tailwind
-Photos Gallery: Project made to study Firebase integration using ReactJS with Typescript
-https://github.com/edmilson-torres/gallery-react-firebase
+
+<a href="https://github.com/edmilson-torres/simplequiz-api">SimpleQuiz</a>: Node.js, typescript, MongoDB, JWT, Swagger, Nodemailer and Jest.  
+<a href="https://github.com/edmilson-torres/nodejs-socketio">Chat real-time</a>: Node.js, express and Socket.io  
+<a href="https://github.com/edmilson-torres/nodejs-rabbitmq">RabbitMQ</a>: Node.js, Typescript and RabbitMQ. Messages using topic exchange.  
+<a href="https://github.com/edmilson-torres/nestjs-graphql-postgres">User CRUD</a>: NestJS, GraphQL and PostegreSQL.  
+<a href="https://github.com/edmilson-torres/url-shortener-dio">URL shorten</a>: Node.js, express, Typescript, MongoDB, swagger and Jest.  
+<a href="https://github.com/edmilson-torres/admin-template">Admin Template</a>: Next.js using Typescript, Tailwind CSS and Firebase Auth.  
+<a href="https://github.com/edmilson-torres/github-api-interface">Github api interface</a>: consuming Github API using React.js and axios.  
+<a href="https://github.com/edmilson-torres/react-form-mui-tailwind">Sign In form</a>: Tailwind CSS, MUI, Formik and Yup to validate.  
+<a href="https://github.com/edmilson-torres/gallery-react-firebase">Photos Gallery</a>: Project made to study Firebase integration using ReactJS with Typescript  
 
 ### 🌱 Languages and Tools
-<p align="center"><a href="#">
+<p style="text-align:center"><a href="#">
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
     
