@@ -1,7 +1,7 @@
-<p align="center">
+<p align="center"><a href="#">
     <img align="center" width="450" src="https://user-images.githubusercontent.com/64763336/199843578-33d3805c-f9a5-47e0-95e9-6eba10add45c.svg" />
   </a>
-  <span>
+  <span><a href="#">
 <img align="center" width="350" src="https://user-images.githubusercontent.com/64763336/199843667-2f27a6f4-72b2-470c-9473-79946475b70f.png" />
   </a>
 </p>
@@ -43,7 +43,4 @@ Tenho um [canal no Youtube (SimpleKod)](https://www.youtube.com/c/simplekod) ond
 
 <a href="https://storyset.com/work">Work illustrations by Storyset</a>
 
-<details>
-<summary>  </summary>
 <img src= "https://komarev.com/ghpvc/?username=edmilson-torres&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22edmilson-torres">
-</details>
