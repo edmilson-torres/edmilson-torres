@@ -19,7 +19,7 @@ Com inglês técnico me saio bem aprendendo através de vídeos em inglês e len
 Para garantir a qualidade do código, facilitando a manutenção e a escalabilidade da aplicação, utilizo de boas práticas de desenvolvimento, aplicando os princípios do Clean Code, SOLID e testes, ou seja, produzindo código simples, desacoplado, limpo, legível e documentado.
 
 
-### 📚 Projetos 📚
+### 📚 Projetos
 
 <a href="https://github.com/edmilson-torres/simplequiz-api">SimpleQuiz</a>: Node.js, typescript, MongoDB, JWT, Swagger, Nodemailer and Jest.  
 <a href="https://github.com/edmilson-torres/nodejs-socketio">Chat real-time</a>: Node.js, express and Socket.io  
