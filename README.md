@@ -6,11 +6,20 @@
   </a>
 </p>
     
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-### 🪪 Abstract
-I'm currently Back-end at Mundiale
+## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### 🪪 Sobre mim
+Desenvolvedor de software Stack Javascript, ficando confortável atuando no back end utilizando Node.js, embora tenha conhecimentos em front end React.js/Next.js e outras ferramentas. Link do meu perfil no Github: https://github.com/edmilson-torres .
 
-### 📚 Projects & Guides 📚
+Meu objetivo profissional é me tornar um desenvolvedor back end Node.js júnior, para isso estudo diariamente, adoro aprender novas tecnologias e passar o conhecimento e isso me mantém motivado e evoluindo sempre.
+
+No ambiente de trabalho me considero disciplinado, proativo, com boa auto gestão do tempo, organizado e considero a comunicação primordial para o trabalho em equipe. Dar e receber feedbacks é algo essencial para o crescimento profissional e pessoal.
+
+Com inglês técnico me saio bem aprendendo através de vídeos em inglês e lendo documentações, e o básico no dia a dia de um desenvolvedor.
+
+Para garantir a qualidade do código, facilitando a manutenção e a escalabilidade da aplicação, utilizo de boas práticas de desenvolvimento, aplicando os princípios do Clean Code, SOLID e testes, ou seja, produzindo código simples, desacoplado, limpo, legível e documentado.
+
+
+### 📚 Projetos 📚
 
 <a href="https://github.com/edmilson-torres/simplequiz-api">SimpleQuiz</a>: Node.js, typescript, MongoDB, JWT, Swagger, Nodemailer and Jest.  
 <a href="https://github.com/edmilson-torres/nodejs-socketio">Chat real-time</a>: Node.js, express and Socket.io  
@@ -22,7 +31,7 @@ I'm currently Back-end at Mundiale
 <a href="https://github.com/edmilson-torres/react-form-mui-tailwind">Sign In form</a>: Tailwind CSS, MUI, Formik and Yup to validate.  
 <a href="https://github.com/edmilson-torres/gallery-react-firebase">Photos Gallery</a>: Project made to study Firebase integration using ReactJS with Typescript  
 
-### 🌱 Languages and Tools
+### 🌱 Linguagens e ferramentas
 <p style="text-align:center"><a href="#">
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
@@ -46,10 +55,10 @@ I'm currently Back-end at Mundiale
 </a>
 </p>
   
-### 📝 Learning more about and studying: 
-NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design patterns, AWS, DevOps and CI/CD tools, microservices and serverless.
+### 📝 Aprendendo e estudando sobre: 
+NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design patterns, AWS, DevOps and CI/CD tools, microservices e serverless.
   
-### 📫 Connect with Me 
+### 📫 Me encontre
 <a href="https://www.linkedin.com/in/edmilson-torres"><img alt="linkedin edmilson-torres" src="https://img.shields.io/badge/-Edmilson Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:edmilson.torres@gmail.com"><img alt="email edmilson.torres@gmail.com" src="https://img.shields.io/badge/-edmilson.torres@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/simplekod"><img alt="canal simplekod" src="https://img.shields.io/badge/-SimpleKod-D62422?style=flat-square&labelColor=D62422&logo=youtube&logoColor=white"/></a>
