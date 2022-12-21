@@ -25,6 +25,7 @@ Para garantir a qualidade do código, facilitando a manutenção e a escalabilid
 <a href="https://github.com/edmilson-torres/nodejs-socketio">Chat real-time</a>: Node.js, express and Socket.io  
 <a href="https://github.com/edmilson-torres/nodejs-rabbitmq">RabbitMQ</a>: Node.js, Typescript and RabbitMQ. Messages using topic exchange.  
 <a href="https://github.com/edmilson-torres/nestjs-graphql-postgres">User CRUD</a>: NestJS, GraphQL and PostegreSQL.  
+<a href="https://github.com/edmilson-torres/nodejs-streams">Node streams</a>: Convertendo CSV em JSON sem salvar em memória usando streams.  
 <a href="https://github.com/edmilson-torres/url-shortener-dio">URL shorten</a>: Node.js, express, Typescript, MongoDB, swagger and Jest.  
 <a href="https://github.com/edmilson-torres/admin-template">Admin Template</a>: Next.js using Typescript, Tailwind CSS and Firebase Auth.  
 <a href="https://github.com/edmilson-torres/github-api-interface">Github api interface</a>: consuming Github API using React.js and axios.  
