@@ -8,7 +8,7 @@
     
 ## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ### 🪪 Sobre mim
-Desenvolvedor de software Stack Javascript, ficando confortável atuando no back end utilizando Node.js, embora tenha conhecimentos em front end React.js/Next.js e outras ferramentas. Link do meu perfil no Github: https://github.com/edmilson-torres .
+Desenvolvedor de software Stack Javascript, ficando confortável atuando no back end utilizando Node.js, embora tenha conhecimentos em front end React.js/Next.js e outras ferramentas.
 
 Meu objetivo profissional é me tornar um desenvolvedor back end Node.js júnior, para isso estudo diariamente, adoro aprender novas tecnologias e passar o conhecimento e isso me mantém motivado e evoluindo sempre.
 
