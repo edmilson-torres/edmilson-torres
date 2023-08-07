@@ -10,7 +10,7 @@
 ### 🪪 Sobre mim
 Desenvolvedor de software Stack Javascript, ficando confortável atuando no back end utilizando Node.js, embora tenha conhecimentos em front end React.js/Next.js e outras ferramentas.
 
-Meu objetivo profissional é me tornar um desenvolvedor back end Node.js júnior, para isso estudo diariamente, adoro aprender novas tecnologias e passar o conhecimento e isso me mantém motivado e evoluindo sempre.
+Meu objetivo profissional é busca de desafios estimulantes como desenvolvedor back-end Javascript/Typescript Node.js, onde posso aplicar minha experiência e conhecimento técnico para criar soluções inovadoras e escaláveis. Contribuir para o sucesso de projetos, colaborando de forma ativa com equipes multidisciplinares, utilizando as melhores práticas de desenvolvimento e oferecendo soluções de alta qualidade. Estou motivado a enfrentar novos desafios e a aprimorar minhas habilidades constantemente, visando alcançar resultados excepcionais em um ambiente de trabalho dinâmico.
 
 No ambiente de trabalho me considero disciplinado, proativo, com boa auto gestão do tempo, organizado e considero a comunicação primordial para o trabalho em equipe. Dar e receber feedbacks é algo essencial para o crescimento profissional e pessoal.
 
