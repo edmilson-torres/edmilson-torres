@@ -21,7 +21,7 @@ Para garantir a qualidade do código, facilitando a manutenção e a escalabilid
 
 ### 📚 Projetos
 
-<a href="https://github.com/edmilson-torres/simplequiz-api">SimpleQuiz</a>: Node.js, typescript, MongoDB, JWT, Swagger, Nodemailer and Jest.  
+<a href="https://github.com/edmilson-torres/nestjs-simple-quiz-api">SimpleQuiz</a>: Node.js, Nest.js, typescript, Postgresql, Validations, JWT, Roles Auth, Swagger.  
 <a href="https://github.com/edmilson-torres/nodejs-socketio">Chat real-time</a>: Node.js, express and Socket.io  
 <a href="https://github.com/edmilson-torres/nodejs-rabbitmq">RabbitMQ</a>: Node.js, Typescript and RabbitMQ. Messages using topic exchange.  
 <a href="https://github.com/edmilson-torres/nestjs-graphql-postgres">User CRUD</a>: NestJS, GraphQL and PostegreSQL.  
@@ -38,6 +38,7 @@ Para garantir a qualidade do código, facilitando a manutenção e a escalabilid
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
     
 <img alt="Node.js" src="https://img.shields.io/badge/node_js-%230d1117?style=for-the-badge&logo=nodedotjs"/>
+<img alt="Nest.js" src="https://img.shields.io/badge/nest_js-%230d1117?style=for-the-badge&logo=nestjs&logoColor=ea2845"/>
 <img alt="Jest" src="https://img.shields.io/badge/jest-%230d1117?style=for-the-badge&logo=jest"/>
 
 <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%230d1117?style=for-the-badge&logo=mongodb"/>
@@ -57,7 +58,7 @@ Para garantir a qualidade do código, facilitando a manutenção e a escalabilid
 </p>
   
 ### 📝 Aprendendo e estudando sobre: 
-NextJS, NestJS, API GraphQL, TDD, websocket, clean architecture, SOLID, design patterns, AWS, DevOps and CI/CD tools, microservices e serverless.
+TDD, clean architecture, SOLID, design patterns, AWS, DevOps and CI/CD tools, microservices e serverless.
   
 ### 📫 Me encontre
 <a href="https://www.linkedin.com/in/edmilson-torres"><img alt="linkedin edmilson-torres" src="https://img.shields.io/badge/-Edmilson Torres-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
